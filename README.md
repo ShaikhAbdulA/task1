@@ -1,16 +1,24 @@
-# task1
-E-Commerce Website This project is an e-commerce website developed as part of my internship at CodTech IT Solution. The website is built using HTML, CSS, and JavaScript. It features a user-friendly interface, dynamic content, and responsive design to provide a seamless shopping experience.
+# IMPORTANT LINK FOR PROJECT
 
-Features:
-Product Listings: Browse through various products with detailed descriptions and images.
 
-Shopping Cart: Add, remove, and update products in the cart.
+@theblockchaincoders
 
-Responsive Design: Optimized for both desktop and mobile devices.
+Build your web3 Dapp "MetaMask clone", in which you can provide users to create their own Metakmask wallet.
 
-Technologies Used:
-HTML5: Markup language for structuring the content.
+YouTube: https://www.youtube.com/c/DaulatHussain
 
-CSS3: Styling for the website to make it visually appealing.
+Resource
 
-JavaScript: Dynamic content and interactive features.
+Final-Code: [https://www.theblockchaincoders.com/sourceCode/build-a-responsive-website-with-html-and-scss-sass](https://www.theblockchaincoders.com/sourceCode/responsive-ecommerce-website-using-html-css-and-javascript)
+
+Starter-file: https://github.com/daulathussain/ecommerce-template-starter-file
+
+Get Pro Course "AI Movie APP": https://bit.ly/AI-Movie-App-Course
+
+Support Creator: https://bit.ly/Support-Creator
+
+All Projects Source Code: https://www.theblockchaincoders.com/SourceCode
+
+Official Website: https://www.theblockchaincoders.com
+
+Book 1 -1 Appointment: https://bit.ly/Book-1-1-Appointment
